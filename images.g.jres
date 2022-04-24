@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD/////////DwAAAAAAAABPRERE9GZmZvYAAADu/w8AT0RERPRmZmb2AADg7t39/09ERET0Zv//DwAA4O7d/d39RERE9GYPAAAAAODu/f3d3U9ERPRmDwAAAADg7t393f1ERET0Zv//DwAA4O79/f9PRERE9GZvZvYAAOD+/w8AT0RERPRmZmb2AAAADgAAAPD/////////DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Kane"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
